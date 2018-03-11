@@ -1,0 +1,30 @@
+{
+    "Bob": {
+        "Active": true,
+        "Other_attribute": "value extended extended",
+        "Sillyness": 3,
+        "hjk": "io",
+        "kk": "horse"
+    },
+    "Joachim": {
+        "Active": true,
+        "Other_attribute": "value",
+        "Sillyness": 1,
+        "hjk": "io",
+        "kk": "horse"
+    },
+    "Laila": {
+        "Active": false,
+        "Other_attribute": "value extended extended extended",
+        "Sillyness": 4,
+        "hjk": "io",
+        "kk": "horse"
+    },
+    "harold": {
+        "Active": false,
+        "Other_attribute": "value extended",
+        "Sillyness": 2,
+        "hjk": "io",
+        "kk": "horse"
+    }
+}

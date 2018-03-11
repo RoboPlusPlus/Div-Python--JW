@@ -1,0 +1,225 @@
+
+
+Thu, 17 Aug 2017 20:52:11
+****************************
+www.google.com: link Up
+www.abc.com: link Up
+www.aol.com: link Down
+
+
+Thu, 17 Aug 2017 20:54:00
+****************************
+
+
+Thu, 17 Aug 2017 21:06:27
+****************************
+
+
+Thu, 17 Aug 2017 21:06:51
+****************************
+
+
+Thu, 17 Aug 2017 21:07:09
+****************************
+www.google.com: link Up
+www.abc.com: link Up
+www.aol.com: link Down
+
+
+Thu, 17 Aug 2017 21:08:04
+****************************
+www.google.com: link Up
+www.abc.com: link Up
+www.aol.com: link Down
+
+
+Thu, 17 Aug 2017 21:19:47
+****************************
+www.google.com: link Up
+www.abc.com: link Up
+www.aol.com: link Down
+
+
+Thu, 17 Aug 2017 21:37:16
+****************************
+www.google.com: link Up
+www.abc.com: link Up
+www.aol.com: link Down
+
+
+Thu, 17 Aug 2017 21:40:43
+****************************
+www.google.com: link Up
+www.abc.com: link Up
+www.aol.com: link Up
+
+
+Sun, 20 Aug 2017 12:11:22
+****************************
+www.google.com: link Down
+www.abc.com: link Down
+www.aol.com: link Down
+
+
+Sun, 20 Aug 2017 12:15:55
+****************************
+www.google.com: link Down
+www.abc.com: link Down
+www.aol.com: link Down
+
+
+Sun, 20 Aug 2017 12:25:13
+****************************
+www.google.com: link Down
+www.abc.com: link Down
+www.aol.com: link Down
+
+
+Sun, 20 Aug 2017 12:25:45
+****************************
+www.google.com: link Down
+www.abc.com: link Down
+www.aol.com: link Down
+
+
+Sun, 20 Aug 2017 12:42:37
+****************************
+www.google.com: link Down
+www.abc.com: link Down
+www.aol.com: link Down
+
+
+Sun, 20 Aug 2017 12:44:09
+****************************
+www.google.com: link Down
+www.abc.com: link Down
+www.aol.com: link Down
+
+
+Sun, 20 Aug 2017 15:56:21
+****************************
+www.google.com: link Up
+www.abc.com: link Up
+www.aol.com: link Down
+
+
+Sun, 20 Aug 2017 16:03:49
+****************************
+www.google.com: link Down
+www.abc.com: link Down
+www.aol.com: link Down
+
+
+Sun, 20 Aug 2017 16:37:07
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+
+
+Sun, 20 Aug 2017 17:54:46
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+
+
+Sun, 20 Aug 2017 18:01:24
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+
+
+Sun, 20 Aug 2017 18:57:37
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+
+
+Wed, 23 Aug 2017 15:47:42
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+
+
+Sat, 26 Aug 2017 15:00:48
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+
+
+Sat, 26 Aug 2017 15:02:08
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+192.168.10.1: link Up
+
+
+Sat, 26 Aug 2017 15:09:26
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+192.168.10.1: link Down
+
+
+Sat, 26 Aug 2017 15:10:31
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+192.168.10.1: link Down
+
+
+Sat, 26 Aug 2017 15:13:01
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+192.168.10.1: link Down
+
+
+Sat, 26 Aug 2017 15:13:49
+****************************
+10.0.75.70: link Down
+10.0.75.65: link Down
+10.0.60.21: link Down
+10.0.60.41: link Down
+10.0.60.210: link Down
+10.0.60.216: link Down
+192.168.10.1: link Up

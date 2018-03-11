@@ -1,0 +1,6 @@
+BoolTag1,1,rw,bool
+BoolTag2,2,rw,bool
+BoolTag3,3,rw,bool
+BoolTag4,4,rw,bool
+BoolTag5,5,rw,bool
+BoolTag6,6,rw,bool

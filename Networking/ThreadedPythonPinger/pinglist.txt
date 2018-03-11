@@ -1,0 +1,7 @@
+10.0.75.70, vts1p-nvtaclts1 Windows Server 2008 R2 64bit
+10.0.75.65, Gateway
+10.0.60.21, DNS Server 1
+10.0.60.41, DNS Server 2
+10.0.60.210, VTS Aventi
+10.0.60.216, VTS Aventi
+192.168.10.1, lokal GW

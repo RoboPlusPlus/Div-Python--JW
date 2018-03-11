@@ -1,0 +1,8 @@
+DI, FBPos1, MVS - Status Pos. 1
+DI, FBPos2, MVS - Status Pos. 2
+DI, FBPos3, MVS - Status Pos. 3
+DI, Failure1, MVS - Status Feil 1
+DI, FAilure2, MVS - Status Feil 2
+DO, Pos1, MVS - Kommando Pos.1
+DO, Pos2, MVS - Kommando Pos.2
+DO, Pos3, MVS - Kommando Pos.3
